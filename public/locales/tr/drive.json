@@ -1,0 +1,16 @@
+{
+  "name": "Google Senkronizasyonu",
+  "tagline": "Sohbetlerinizi ve ayarlarınızı Google Drive ile kolayca senkronize edin.",
+  "button": {
+    "sync": "Sohbetlerinizi senkronize edin",
+    "stop": "Senkronizasyonu durdurun",
+    "create": "Yeni dosya oluştur",
+    "confirm": "Seçimi onayla"
+  },
+  "notice": "Not: Her ziyaret veya her saatte bir yeniden giriş yapmanız gerekecektir. Bulut verilerinizin üzerine yazılmasını önlemek için BetterChatGPT'yi aynı anda birden fazla cihazda kullanmayın.",
+  "privacy": "Gizliliğiniz bizim için önemlidir ve bunu sağlamak için Better ChatGPT yalnızca hassas olmayan erişime sahiptir, yani sadece kendi dosyalarını ve klasörlerini oluşturabilir, görüntüleyebilir ve yönetebilir.",
+  "toast": {
+    "sync": "Senkronizasyon başarılı!",
+    "stop": "Senkronizasyon durduruldu"
+  }
+}
