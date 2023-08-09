@@ -1,0 +1,15 @@
+{
+  "securityMessage": "API anahtarınızın güvenliğini önceliklendiriyor ve en üst düzeyde koruyoruz. Anahtarınız yalnızca tarayıcınızda özel olarak depolanır ve hiçbir üçüncü taraf kuruluşla paylaşılmaz. Yalnızca OpenAI API'sine erişim amacıyla kullanılır ve yetkisiz herhangi bir kullanım için kullanılmaz.",
+  "apiEndpoint": {
+    "inputLabel": "API Endpoint",
+    "description": "Gayri resmi bir API endpointi seçtiğinizde, bir vekil (proxy) olarak işlev görür. Bir vekil, cihazınız ve hedef sunucu arasında aracılık yaparak, bu durumda OpenAI API'sine erişim sağlar. Böylelikle, aksi takdirde kısıtlanmış olabilecek bölgelerde OpenAI API'sine erişmenizi mümkün kılar.",
+    "warn": "Ek olarak, OpenAI API'sine ücretsiz erişim imkanı sunan özel bir API endpointi sağlarsanız, API anahtarı alanını boş bırakarak API anahtarı sağlamadan ChatGPT'yi kullanabilirsiniz. Ancak, üçüncü taraf API endpointlerini kullanırken dikkatli olmak önemlidir, çünkü güvensiz olanlar sohbetlerde kişisel bilgilerinizi kaydedebilir. Gizliliğinizi ve güvenliğinizi korumak için bir API endpointinin güvenilirliğini her zaman doğrulayın."
+  },
+  "apiKey": {
+    "howTo": "Kişisel API anahtarınızı <0>buradan</0> alın.",
+    "inputLabel": "API Anahtarı"
+  },
+  "customEndpoint": "Özel API endpointi kullan",
+  "advancedConfig": "Gelişmiş API yapılandırmasını <0>buradan</0> görüntüleyin",
+  "noApiKeyWarning": "API anahtarı sağlanmadı! Lütfen API ayarlarınızı kontrol edin."
+}
