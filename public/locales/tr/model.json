@@ -1,0 +1,28 @@
+{
+  "configuration": "Yapılandırma",
+  "model": "Model",
+  "token": {
+    "label": "Maksimum Belirteç",
+    "description": "Sohbet tamamlamasında oluşturulacak maksimum belirteç sayısı. Giriş belirteçlerinin ve oluşturulan belirteçlerin toplam uzunluğu, modelin bağlam uzunluğu tarafından sınırlanır."
+  },
+  "default": "Varsayılan",
+  "temperature": {
+    "label": "Sıcaklık",
+    "description": "0 ile 2 arasında kullanılacak örnekleme sıcaklığı. 0.8 gibi daha yüksek değerler çıktıyı daha rastgele yaparken, 0.2 gibi daha düşük değerler odaklanmış ve belirlenebilir bir çıktı elde etmek için kullanılır. Genellikle bunlardan birini değiştirmeyi öneririz: sıcaklık veya top-p. (Varsayılan: 1)"
+  },
+  "presencePenalty": {
+    "label": "Varlık Cezası",
+    "description": "-2.0 ile 2.0 arasındaki bir sayı. Pozitif değerler, belirli belirteçlerin metinde olup olmadığına bağlı olarak yeni belirteçleri cezalandırarak modelin yeni konulardan bahsetme olasılığını artırır. (Varsayılan: 0)"
+  },
+  "topP": {
+    "label": "Top-p",
+    "description": "0 ile 1 arasında bir sayı. Sıcaklıkla örnekleme yerine kullanılan bir alternatif olan çekirdek örnekleme, modelin top p olasılık kütlesine sahip belirteç sonuçlarını dikkate aldığı bir yöntemdir. Örneğin, 0.1, yalnızca en üst %10 olasılık kütlesi içindeki belirteçlerin dikkate alındığı anlamına gelir. Genellikle bunlardan birini değiştirmeyi öneririz: sıcaklık veya top-p. (Varsayılan: 1)"
+  },
+  "frequencyPenalty": {
+    "label": "Frekans Cezası",
+    "description": "-2.0 ile 2.0 arasındaki bir sayı. Pozitif değerler, belirteçlerin metindeki mevcut frekansına bağlı olarak yeni belirteçleri cezalandırarak modelin aynı cümleyi aynen tekrarlama olasılığını azaltır. (Varsayılan: 0)"
+  },
+  "defaultChatConfig": "Varsayılan Sohbet Yapılandırması",
+  "defaultSystemMessage": "Varsayılan Sistem Mesajı",
+  "resetToDefault": "Varsayılana Sıfırla"
+}
