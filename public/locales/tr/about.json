@@ -1,0 +1,27 @@
+{
+  "description": "Daha İyi ChatGPT, OpenAI'nin ChatGPT API'sı ile ücretsiz olarak oynamanıza izin veren harika bir açık kaynaklı web uygulamasıdır!",
+  "sourceCode": "<0>Kaynak kodu</0>nu GitHub'da inceleyin ve ona bir ⭐️ verin!",
+  "initiative": {
+    "description": "<0><i>Açık ChatGPT İnisiyatifi</i></0>ni inceleyin!",
+    "link": "https://medium.com/@ayaka_45434/the-open-chatgpt-initiative-e76b0b62a3ae"
+  },
+  "support": {
+    "title": "Destek",
+    "paragraph1": "Daha İyi ChatGPT olarak, size etkileyici ve kullanışlı özellikler sunmaya çaba gösteriyoruz. Ve her proje gibi, destek ve motivasyonunuz, bize ileriye doğru ilerlememizde kritik önem taşıyor!",
+    "paragraph2": "Uygulamamızı beğendiyseniz, bu <0>projeye</0> bir ⭐️ vermenizi rica ederiz. Onayınız bize çok şey ifade ediyor ve en iyi deneyimi sunma yönünde daha çok çalışmamızı teşvik ediyor.",
+    "paragraph3": "Takıma destek olmak isterseniz, aşağıdaki yöntemlerden biriyle bizi sponsor olmayı düşünün. Her katkı, ne kadar küçük olursa olsun, hizmetimizi sürdürme ve geliştirme konusunda bize yardımcı olur.",
+    "paragraph4": "Topluluğumuzun bir parçası olduğunuz için teşekkür ederiz ve gelecekte size daha iyi hizmet etmeyi dört gözle bekliyoruz.",
+    "alipay": "Alipay",
+    "wechatPay": "WeChat"
+  },
+  "discordServer": {
+    "title": "Discord Sunucusu",
+    "paragraph1": "Discord topluluğumuza katılmanızı davet ediyoruz! Discord sunucumuz, ChatGPT fikirleri ve ipuçlarını paylaşmak, Daha İyi ChatGPT için özellik isteklerinde bulunmak ve Daha İyi ChatGPT'nin arkasındaki geliştiricilerle ve tutkunuzu paylaşan diğer Yapay Zeka meraklılarıyla etkileşimde bulunma fırsatına sahip olacağınız harika bir yerdir.",
+    "paragraph2": "Sunucumuza katılmak için aşağıdaki bağlantıya basitçe tıklayın: <0>https://discord.gg/g3Qnwy4V6A</0>. Orada sizi görmeyi dört gözle bekliyoruz!"
+  },
+  "privacyStatement": {
+    "title": "Gizlilik Beyanı",
+    "paragraph1": "Gizliliğinizi son derece önemsiyor ve kullanıcılarımızın gizliliğini korumaya kararlıyız. OpenAI sunucusundan girdiğiniz veya aldığınız herhangi bir metni hiçbir şekilde toplamıyor veya saklamıyoruz. Bu beyanı doğrulamak için kaynak kodumuz incelemeniz için mevcuttur.",
+    "paragraph2": "API anahtarınızın güvenliğini öncelikli hale getiririz ve ona son derece dikkatli davranırız. Kendi API anahtarınızı kullanırsanız, anahtarınız yalnızca tarayıcınızda saklanır ve hiçbir üçüncü taraf entitesiyle paylaşılmaz. Yalnızca OpenAI API'sına erişmek amacıyla kullanılır ve herhangi bir yetkisiz kullanım için değil."
+  }
+}
